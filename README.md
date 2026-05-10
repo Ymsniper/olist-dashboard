@@ -1,7 +1,7 @@
 # 🛒 Olist E-Commerce Dashboard
 **Projet Entrepôt de données · GLSI 2026 · Houcine ESSID**
 
-[![CI — Lint & Deploy](https://github.com/YOUR_USERNAME/olist-dashboard/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_USERNAME/olist-dashboard/actions)
+[![CI — Lint & Deploy](https://github.com/Ymsniper/olist-dashboard/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ymsniper/olist-dashboard/actions)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?logo=render)](https://olist-dashboard.onrender.com)
 
 ---
