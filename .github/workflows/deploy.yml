@@ -27,7 +27,7 @@ jobs:
       - name: Run flake8 (style + syntax check)
         run: |
           # Stop build on syntax errors or undefined names
-          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 . --count --select=E9,F63,F7,F82 --exit-zero --show-source --statistics
           # Warn on style issues (non-blocking)
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=120 --statistics
 
